@@ -4,7 +4,7 @@ export default function Blog019() {
   return (
     <section>
     <article>
-      <h2>19. 10-1-2022</h2>
+      <h2>19. 10-10-2022</h2>
       <h3>New Office</h3>
       <p>
         <br />
