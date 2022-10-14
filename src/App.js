@@ -1,27 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
-import Myapp1 from './Appsfolder/myapp1';
+import Blog001 from './Appsfolder/Blog001'
+import Blog002 from './Appsfolder/Blog002'
 
 function App() {
   return (
+    <>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        <Myapp1 />
-        </a>
+    <h1>Heading</h1>
+      
+        <Blog001 />
+        <Blog002 />
+        <Blog001 />
+        <Blog002 />
+        <Blog001 />
         
-        <h1>hello</h1>
-      </header>
+      
+      
     </div>
+    </>
   );
 }
 
