@@ -24,8 +24,11 @@ function App() {
     <>
     <div class="nav">
      <div class="navbar">
+     
     <h1>Eric Polley - Official Blog</h1>
+    <a target="blank" href="http://ericpolley.com">
     <p>A technical Blog by Eric Polley </p>
+    </a>
     </div></div>
     <Blog020 />
     <Blog019 />
