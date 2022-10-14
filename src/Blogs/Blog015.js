@@ -45,7 +45,7 @@ export default function Blog015() {
           href="https://www.youtube.com/watch?v=J6aWT0ywgWE&list=PLce5_YZyrUw6mOXubpKKWoTROUqCfIDDo"
           title="Tutorial"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Make your first website in 80 seconds!</p></strong></a
         >
@@ -55,7 +55,7 @@ export default function Blog015() {
           href="https://ericpolley.github.io/CharacterSheet-Fungeon-wip-01/"
           title="1st Version"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>The first version Character Sheet to see daylight #WIP</p></strong></a
         >
@@ -65,7 +65,7 @@ export default function Blog015() {
           href="http://ericpolley.com"
           title="My website"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my website</p></strong></a
         >

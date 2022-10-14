@@ -9,7 +9,7 @@ export default function Blog010() {
         Hello, <br /><br />
         I am excited to write about the <a
         href="https://ericpolley.github.io/unicornquiz/"
-        title="Unicorn Quiz Game! ...Game?" class="white"
+        title="Unicorn Quiz Game! ...Game?" 
       >
         <strong>Unicorn Quiz Game!</strong></a
       > <br /> This Unicorn is the frame, or bones of the project I am creating. This game has 
@@ -59,7 +59,7 @@ export default function Blog010() {
           href="https://ericpolley.github.io/unicornquiz/"
           title="Unicorn Quiz Game! ...Game?"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Unicorn Quiz Game! ...Game?</p></strong></a
         >
@@ -69,7 +69,7 @@ export default function Blog010() {
         <a
           href="https://www.youtube.com/watch?v=6IIY9qJnUXA&list=PLce5_YZyrUw7dNEL7F1T4kxAp0mMuattO&index=1"
           title="Vlog"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
           target="_blank"
         >
           <strong><p>THE VLOG - Video Blog Series</p></strong></a
@@ -80,7 +80,7 @@ export default function Blog010() {
         <a
           href="http://erpolley.com"
           title="Check out my website"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
           target="_blank"
         >
           <strong><p>Check out my website</p></strong></a

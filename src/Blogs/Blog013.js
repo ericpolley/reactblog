@@ -9,6 +9,7 @@ export default function Blog013() {
       <p> 
              Hey! It has been a few days since the last update on this blog, and a lot has taken place during these days. 
              I'm going to bullet point everything out as an index to make sure I write about everything.
+             </p>
              <ul>
               <li>Updating websites and domains</li>
               <li>Notebook of Ideas</li>
@@ -18,9 +19,10 @@ export default function Blog013() {
               <li>My new Portfolio Website</li>
               <li>Two Month Recap</li>
              </ul>
+             <p>
               <br />
               <br /><strong>Updating websites and domains</strong><br />
-              I am in the middle of creating a primary website. I have established the url <a class="offwhite" href="http://www.ericpolley.com">ericpolley.com</a> . I am currently linking
+              I am in the middle of creating a primary website. I have established the url <a className="offwhite" href="http://www.ericpolley.com">ericpolley.com</a> . I am currently linking
                all the pages to the portfolio. So currently there are a few minor bugs to work out, mostly cosmetics. 
               <br />
               
@@ -49,7 +51,7 @@ export default function Blog013() {
               <br />
               <br /><strong>Javascript Buttons</strong><br />
               I have learned a lot with Javascript, my focus has been manipulating the DOM.
-              I titled this post Javascript Buttons, but with addEventListener and classList you can do so 
+              I titled this post Javascript Buttons, but with addEventListener and classNameList you can do so 
               much more than buttons. If it is, then it can also Javascript. 
 
               <br />
@@ -80,7 +82,7 @@ export default function Blog013() {
           href="http://my.ericpolley.com/"
           title="My friendly Computer"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>'My Friendly computer' Game</p></strong></a
         >
@@ -91,7 +93,7 @@ export default function Blog013() {
           href="http://www.ericpolley.com"
           title="Check out my new website!"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my website</p></strong></a
         >
@@ -103,7 +105,7 @@ export default function Blog013() {
         href="https://www.youtube.com/watch?v=VHsE-cRypq4&list=PLce5_YZyrUw7dNEL7F1T4kxAp0mMuattO"
         title="VLOG"
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer" 
       >
         <strong><p>VLOG Video series</p></strong></a
       >

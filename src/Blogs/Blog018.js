@@ -50,7 +50,7 @@ export default function Blog018() {
           href="http://youtube.com/erpolley"
           target="_blank"
           title="My Youtube"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my Youtube Channel</p></strong></a
         >
@@ -60,7 +60,7 @@ export default function Blog018() {
           href="http://ericpolley.com"
           target="_blank"
           title="My website"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my website</p></strong></a
         >

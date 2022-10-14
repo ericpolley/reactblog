@@ -39,7 +39,7 @@ export default function Blog016() {
         <a
           href="http://dtf.ericpolley.com"
           title="Dungeons to Fungeons"
-          rel="noreferrer" 
+          rel="noopener noreferrer"  
           target="_blank"
         >
           <strong><p>Dungeons to Fungeons (Download and play free!)</p></strong></a
@@ -49,7 +49,7 @@ export default function Blog016() {
       <li>
         <a
           href="http://ericpolley.com"
-          rel="noreferrer" 
+          rel="noopener noreferrer"  
           target="_blank"
           title="My website"
         >
@@ -61,7 +61,7 @@ export default function Blog016() {
           href="https://www.youtube.com/watch?v=izItmx_utZY&list=PLce5_YZyrUw6mOXubpKKWoTROUqCfIDDo"
           title="Tutorial"
           target="_blank"
-          rel="noreferrer" 
+          rel="noopener noreferrer"  
         >
           <strong><p>My second Programming Tutorial</p></strong></a
         >

@@ -19,12 +19,14 @@ export default function Blog005() {
         <br />
         My focus for these tutorials:
         <br />
+      </p>
         <ul>
           <li>Create a function Start and Restart Button</li>
           <li>Create a Game Over</li>
           <li>Create a way to keep score</li>
           <li>Access an Array or Object to create a stream-line of levels</li>
         </ul>
+        <p>
         Great. Now That the goal is set, I am going to get going on some tutorials. The Quiz game I mentioned earlier is available in the links listed below.
         <br />
         Moving forward with Javascript, I plan to upload the next weekly Vlog in a few days.

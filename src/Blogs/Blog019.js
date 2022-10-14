@@ -12,11 +12,13 @@ export default function Blog019() {
       <br />
       <br />
       I have a few things to mention in this blog post. 
+      </p>
       <ul>
         <li>Samson Says</li>
         <li>The 3 month vlog</li>
         <li>Edits to my website</li>
       </ul>
+      <p>
       <br /><br />
       <strong>Samson Says</strong><br />
       Samson Says is a game I idea I had in my notebook for a few weeks. I had originally planned 
@@ -69,7 +71,7 @@ export default function Blog019() {
           href="https://www.youtube.com/playlist?list=PLce5_YZyrUw7dNEL7F1T4kxAp0mMuattO"
           target="_blank"
           title="My Vlog"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out the 3 month Vlog</p></strong></a
         >
@@ -79,7 +81,7 @@ export default function Blog019() {
           href="http://samson.ericpolley.com"
           target="_blank"
           title="SAMSON SAYS"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Play the SAMSON SAYS game!</p></strong></a
         >
@@ -89,7 +91,7 @@ export default function Blog019() {
           href="http://ericpolley.com"
           target="_blank"
           title="My website"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my website</p></strong></a
         >

@@ -27,13 +27,15 @@ export default function Blog003() {
         I touched up the CSS to make it look nice. I saw an opportunity: This game
         as-is, would be a functional text-reveal to button. Check out the links below to see <strong>exactly</strong>
         what I am talking about. <br />In conclusion:
+        </p>
         <ul>
           <li>I have learned what it is like to pair-program with someone</li>
           <li>I started coding my text game project</li>
           <li>I created a webpage with interactive buttons</li>
         </ul>
+
         
-      </p>
+     
     </article>
 
     <h4>Links</h4>

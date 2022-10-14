@@ -24,8 +24,8 @@ import Blog020 from './Blogs/Blog020';
 function App() {
   return (
     <>
-    <div class="nav">
-     <div class="navbar">
+    <div className="nav">
+     <div className="navbar">
      
     <h1>Eric Polley - Official Blog</h1>
     <a target="blank" href="http://ericpolley.com">

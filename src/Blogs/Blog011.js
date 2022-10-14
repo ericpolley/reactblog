@@ -19,7 +19,7 @@ export default function Blog011() {
           my daily todo list according to criteria of the month. <br />
           The plan is to continue this cycle. Planning long term will help
           reduce time spent planning in the short term, in theory.
-          <br /> <hr />  <br /> 
+          <br />   <br /> 
           <strong>Tutorials.</strong><br />
         I recorded the weekly Vlog yesterday, shortly after recording the blog.<br /> Make sure to check it 
         out in the links posted below this blog post! <br /><br />
@@ -29,6 +29,7 @@ export default function Blog011() {
         Before I start my list I would like to think of a recurring theme or rule. Something like ‘in 80 seconds’. <br /> Example: ‘Create a web page in 80 seconds!’ <br /> <br />
         I was writing the above statement as an example, but I am happy with that rule, so let’s go for it. My current plan is that I will start making a list here, and revisit this list in a later blog to properly edit, explain, and prioritize the tutorials. 
         <br />
+        </p>
         <ul>
         <li>how to choose a Language. (What do you want to do? What language does that?)</li>
         <li>I decided to learn web dev. Now what? (freecodecamp, odin proj, warrior.js, codewars, leetcode, hackerRank, books, code, and of course tutorials like this.)</li>
@@ -48,6 +49,7 @@ export default function Blog011() {
         <li>Make a floating Navbar</li>
 
         </ul>
+        <p>
         
         
         <br />
@@ -64,7 +66,7 @@ export default function Blog011() {
           href="https://www.youtube.com/watch?v=6IIY9qJnUXA&list=PLce5_YZyrUw7dNEL7F1T4kxAp0mMuattO&index=1"
           title="Vlog"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>THE VLOG - Video Blog Series</p></strong></a
         >
@@ -75,7 +77,7 @@ export default function Blog011() {
           href="http://erpolley.com"
           title="Check out my website"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my website</p></strong></a
         >

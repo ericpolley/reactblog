@@ -52,7 +52,7 @@ export default function Blog003() {
           href="http://snake.ericpolley.com"
           title="Snake Game"
           target="_blank"
-          rel="noreferrer" 
+          rel="noopener noreferrer"  
         >
           <strong><p>Snake (Download and play free!)</p></strong></a
         >
@@ -63,7 +63,7 @@ export default function Blog003() {
           href="http://ericpolley.com"
           target="_blank"
           title="My website"
-          rel="noreferrer" 
+          rel="noopener noreferrer"  
         >
           <strong><p>Check out my website</p></strong></a
         >

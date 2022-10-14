@@ -22,7 +22,7 @@ export default function Blog012() {
         I brought the Win11 computer down from the main office upstairs and set it up in the second office. This computer is considerably 
         better in every way, 40GB ram, RTX2060.  I  set up OBS Studio, calibrated 
         the microphone, and transferred the files I extracted earlier. Now with everything back up and running, we can talk about some code!
-        <br /> <br /><hr />
+        <br /> <br />
         <br />  
         <strong>My Friendly Computer</strong>
         <br /><br />
@@ -43,7 +43,7 @@ export default function Blog012() {
         I created the face animated gifs in Animated CC. The face is a few green rectangles. I made a happy, sad, and neutral face. 
         Oh, and one red face. The animation is the same for each, blinking eyes at 4fps. Just enough to add a feeling of life to the 
         computer, yet also something that can loop indefinitely. 
-        <br /><br /><hr /><br />
+        <br /><br /><br />
         <strong>Vlogs and Videos</strong><br />
         I do plan on recording some videos soon, and continuing my progress on the above mentioned game. I may need a day or two to bounce back from 
         this computer failure. I may take a bit of time coding on WarriorJS, codeWars, reading, or watching tutorials. <br />
@@ -66,7 +66,7 @@ export default function Blog012() {
           href="https://www.youtube.com/watch?v=Q79gK2rXrAg&list=PLce5_YZyrUw6SkhF6zD5QLQ86BgAZ6NGy"
           title="Coding 'My Friendly computer'"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Coding 'My Friendly computer'</p></strong></a
         >
@@ -77,7 +77,7 @@ export default function Blog012() {
           href="http://www.ericpolley.com"
           title="Check out my website"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
         >
           <strong><p>Check out my website</p></strong></a
         >

@@ -43,7 +43,7 @@ export default function Blog014() {
     <ul>
       <li>
         <a
-        rel="noreferrer"
+        rel="noopener noreferrer" 
           href="http://ericpolley.com"
           title="My website"
           target="_blank"

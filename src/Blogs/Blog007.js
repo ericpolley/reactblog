@@ -17,11 +17,13 @@ export default function Blog007() {
         <br />
         As I have stated earlier I am writing this blog before I record the week 6 Vlog. With the Vlog in mind, let's lay out what I have done this week; and where I plan to go next.
         <br />
+        </p>
         <ul>
         <li>Blog updates with github</li>
         <li>Math Quiz Game</li>
         <li>Tap to Flap</li>
         </ul>
+        <p>
         <br />
         I am making an effort to update this blog regularly. I decided to create my own blog with custom code. This is great practice for coding, typing, and increases my webspace visibility.
         <br />

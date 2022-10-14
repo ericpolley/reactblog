@@ -6,7 +6,7 @@ export default function Blog001() {
         <article>
           <h2>1. 08-06-2022</h2>
           <h3>Starting the Blog</h3>
-          <p class="small">
+          <p>
             "I envy people who do a little of this, a little of that" -
             Idiocracy
           </p>

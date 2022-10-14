@@ -31,7 +31,7 @@ To sum it all up, I moved things around in my house, I have new work spaces, and
         <a
           href="https://www.youtube.com/watch?v=hHKFmBqIjoU&list=PLce5_YZyrUw7dNEL7F1T4kxAp0mMuattO"
           title="Vlog"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
           target="_blank"
         >
           <strong><p>THE VLOG - Video Blog Series</p></strong></a
@@ -42,7 +42,7 @@ To sum it all up, I moved things around in my house, I have new work spaces, and
         <a
           href="http://erpolley.com"
           title="Check out my website"
-          rel="noreferrer"
+          rel="noopener noreferrer" 
           target="_blank"
         >
           <strong><p>Check out my website</p></strong></a
