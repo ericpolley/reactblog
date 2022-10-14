@@ -1,5 +1,5 @@
 
-
+import React from 'react';
 export default function Blog004() {
   return (
     <section>

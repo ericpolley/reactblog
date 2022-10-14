@@ -1,6 +1,7 @@
-
+import React from 'react';
 export default function Blog006() {
   return (
+    <>
     <section>
     <article>
       <h2>6. 08-14-2022</h2>
@@ -40,5 +41,6 @@ export default function Blog006() {
       </li>
     </ul>
   </section>
+  </>
   )
 }
