@@ -28,12 +28,12 @@ export default function Blog021() {
           for the game pad. Inside of the game pad 2 flexbox div's, one for Tv, the other stacked on top of a div for the buttons. 
           Each button inside the button div has an onClick function inside of there own js file. The Tv will display 
           the information called upon by the button function. 
-          <br />
+          <br /><br />
           I got stuck on this for a moment. Everything felt familiar until I tried to add an event listener 
           to a element. The only way I was able to get it to work was roughly 20 lines of code, which just felt wrong. 
           I found after some research calling an addEventListener() is a bit redundant with React, and it is 
           much more efficient to use the onClick={} to call upon a function directly. 
-          <br />
+          <br /><br />
           With all the buttons separated into there own JS file, isolating and making changes is quick.
           I would like to create more React projects and really bring out the efficiency. 
           <br />
