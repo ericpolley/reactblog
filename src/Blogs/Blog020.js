@@ -11,7 +11,7 @@ export default function Blog020() {
           <br />
           I have spent some time with React, and have used React to deploy a website. 
           This website. I have converted my blog into a React App and control it with GIT. 
-          I am deploying the final product with Netlify. A handy thirdy party tool used to host 
+          I am deploying the final product with Netlify. A handy third party tool used to host 
           projects exactly like this one. The free package includes the deploy of static assets and 
           dynamic serverless functions. <br />
           I am able to host projects from Github using Netlify with a custom domain. The DNS setup 
