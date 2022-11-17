@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function Blog024() {
+export default function Blog025() {
   return (
     <section>
     <article>

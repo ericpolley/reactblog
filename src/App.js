@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Blog001 from './Blogs/Blog001';
-
 import Blog002 from './Blogs/Blog002';
 import Blog003 from './Blogs/Blog003';
 import Blog004 from './Blogs/Blog004';
@@ -25,6 +24,7 @@ import Blog021 from './Blogs/Blog021';
 import Blog022 from './Blogs/Blog022';
 import Blog023 from './Blogs/Blog023';
 import Blog024 from './Blogs/Blog024';
+import Blog025 from './Blogs/Blog025';
 
 
 function App() {
@@ -38,6 +38,7 @@ function App() {
     <p>A technical Blog by Eric Polley </p>
     </a>
     </div></div>
+    <Blog025 />
     <Blog024 />
     <Blog023 />
     <Blog022 />
