@@ -32,7 +32,8 @@ export default function Blog026() {
          <br />
          I added a link to the third shopping cart I have built. This shopping cart is not attached to a server, but the functionality is 
          all there. Check it out! <br />
-         Thanks for reading <br />  ~Eric
+         
+         Thanks for reading <br />  ~Eric 
 
 
          
