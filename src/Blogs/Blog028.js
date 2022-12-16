@@ -5,7 +5,7 @@ export default function Blog028() {
     <section>
     <article>
     <h2>28. 12-16-2022</h2>
-          <h3>React and Next.js</h3>
+          <h3>New Website</h3>
           <p>
           <strong>Hello!</strong>
           <br /><br />
