@@ -29,6 +29,8 @@ import Blog026 from './Blogs/Blog026';
 import Blog027 from './Blogs/Blog027';
 import Blog028 from './Blogs/Blog028';
 import Blog029 from './Blogs/Blog029';
+import Blog030 from './Blogs/Blog030';
+import Blog031 from './Blogs/Blog031';
 
 
 function App() {
@@ -42,6 +44,8 @@ function App() {
     <p>A technical Blog by Eric Polley </p>
     </a>
     </div></div>
+    <Blog031 />
+    <Blog030 />
     <Blog029 />
     <Blog028 />
     <Blog027 />
